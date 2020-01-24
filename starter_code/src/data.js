@@ -59,7 +59,7 @@ let movies = [
     {
       "title": "Schindler\"s List",
       "year": 1993,
-      "director": "Steven Spielberg",
+      "director": "Steven SpieSteven Spielberg",
       "duration": "3h 15min",
       "genre": [
         "Biography",
@@ -2380,7 +2380,7 @@ let movies = [
     {
       "title": "Jurassic Park",
       "year": 2000,
-      "director": "Steven Spielberg",
+      "director": "Steven SpieSteven Spielberg",
       "duration": "2h 7min",
       "genre": [
         "Adventure",
@@ -2591,7 +2591,7 @@ let movies = [
     {
       "title": "Catch Me If You Can",
       "year": 2002,
-      "director": "Steven Spielberg",
+      "director": "Steven SpieSteven Spielberg",
       "duration": "2h 21min",
       "genre": [
         "Biography",
@@ -2786,7 +2786,7 @@ let movies = [
     {
       "title": "Jaws",
       "year": 1975,
-      "director": "Steven Spielberg",
+      "director": "Steven SpieSteven Spielberg",
       "duration": "2h 4min",
       "genre": [
         "Adventure",
